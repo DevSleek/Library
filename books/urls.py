@@ -20,3 +20,5 @@ urlpatterns = [
     # path('books/<int:pk>/delete/', BookDeleteApiView.as_view())
 ]
 urlpatterns = urlpatterns + router.urls
+
+# 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
