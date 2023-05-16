@@ -15,6 +15,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# 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
 
 # Application definition
 
