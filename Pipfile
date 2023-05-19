@@ -11,6 +11,7 @@ apiview = "*"
 setuptools = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
+gunicorn = "*"
 
 [dev-packages]
 
